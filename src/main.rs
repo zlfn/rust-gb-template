@@ -1,7 +1,5 @@
 #![no_std]
 #![no_main]
-#![allow(static_mut_refs)]
-#![feature(strict_provenance)]
 #![feature(format_args_nl)]
 
 use gb::println;
